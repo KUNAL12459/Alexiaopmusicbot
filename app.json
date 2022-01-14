@@ -34,7 +34,7 @@
             "required": true,
             "value": ""
         },
-        "ZAID_SUPPORT": {
+        "ALEXIA_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
             "value": "ALEXIA_SUPPORT"
