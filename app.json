@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "◆ ▬ ❴𝐀𝐥𝐞𝐱𝐢𝐚𝐨𝐩𝐦𝐮𝐬𝐢𝐜𝐛𝐨𝐭❵ ▬ ◆",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/itsunknown-12/Zaid-Vc-Player",
+    "keywords": ["Alexia", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "repository": "https://github.com/KUNAL12459/Alexiaopmusicbot",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,12 +12,12 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "1669178360"
+            "value": "5031107311"
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
             "required": true,
-            "value": "1904094450"
+            "value": ""
         },
         "LOG_GROUP_ID": {
             "description": "Add @Zaid2_robot and type /id to get ur chat id",
@@ -27,27 +27,27 @@
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
             "required": true,
-            "value": "6435225"
+            "value": ""
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": false,
-            "value": "4e984ea35f854762dcde906dce426c2d"
+            "value": ""
         },
-        "ZAID_SUPPORT": {
+        "ALEXIA_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "Superior_Support"
+            "value": "ALEXIA_SUPPORT"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "Superior_bots"
+            "value": "ALEXIA_UPDATE"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1669178360"
+            "value": "5031107311"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
