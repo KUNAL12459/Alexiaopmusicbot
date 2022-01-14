@@ -1,4 +1,4 @@
-from Music.config import UPDATES_CHANNEL, ALEXIA_SUPPORT
+from Music.config import UPDATES_CHANNEL, SUPPORT_GROUP
 from pyrogram.types import (
     CallbackQuery,
     InlineKeyboardButton,
