@@ -1,15 +1,13 @@
-<h2 align="centre"> ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> 𝗔𝗟𝗘𝗫𝗜𝗔 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧</h2>
 
-## SORRY FOR OUR PROJECTS DELETED BY GITHUB FLAGGED
 
-### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Zaid_Team1"><img src="https://telegra.ph/file/b92b53dae4995873a4a6b.png" width="300"></a></p>
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
+### 𝗔𝗟𝗘𝗫𝗜𝗔 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 𝗜𝗦 𝗕𝗔𝗦𝗘𝗗 𝗢𝗡 𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠...
+
+
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=Zaid-Vc-Player&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=KUNAL12459&repo=Alexiaopmusicbot&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
