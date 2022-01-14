@@ -1,0 +1,9 @@
+.env
+*.log
+.git/
+.idea/
+downloads/
+raw_files/
+.gitignore
+__pycache__/
+© 2022 GitHub, Inc.
