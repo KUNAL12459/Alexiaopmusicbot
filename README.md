@@ -54,20 +54,20 @@
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛꜱ 💜
 ʜᴇʀᴏᴋᴜ ɪꜱ ᴛʜᴇ ᴇᴀꜱʏ ᴡᴀʏ ᴛᴏ ʜᴏꜱᴛ ᴜʀ ᴀᴘᴘꜱ
 
-[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TIMESISNOTWAITING/Zaid-Vc-Player)
+[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KUNAL12459/Alexiaopmusicbot)
 
-## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗥𝗔𝗜𝗟𝗪𝗔𝗬 ⚡
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/TIMESISNOTWAITING/Zaid-Vc-Player/tree/Umm), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ITZ-ZAID/Zaid-Vc-Player&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,ZAID_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/KUNAL12459/Alexiaopmusicbot&envs=SESSION_NAME,BOT_TOKEN,ASS_ID,OWNER_ID,ALEXIA_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,LOG_GROUP_ID,MONGO_DB_URI)
 
 
-### ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ 💖
+### 𝗦𝗣𝗘𝗜𝗖𝗔𝗟 𝗖𝗥𝗘𝗔𝗗𝗜𝗧𝗦 💖
 - Callsmusic
 - Yukki
 - PyroGram
 -xyz ⚡
 
 
-### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/Superior_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superior_bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+### 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦
+<a href="https://t.me/ALEXIA_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ALEXIA_UPDATE"><img src="https://img.shields.io/badge/Join-Updates%20Channel-green.svg?style=for-the-badge&logo=Telegram"></a>
