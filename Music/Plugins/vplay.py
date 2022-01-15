@@ -17,7 +17,7 @@ from pytgcalls.types.input_stream.quality import (
 from youtubesearchpython import VideosSearch
 
 from Music import BOT_NAME, BOT_USERNAME, app
-from Music.config import SUPPORT_GROUP, UPDATES_CHANNEL, GROUP, CHANNEL
+from Music.config import ALEXIA_SUPPORT, UPDATES_CHANNEL, GROUP, CHANNEL
 from Music.MusicUtilities.helpers.filters import command
 from Music.MusicUtilities.helpers.logger import LOG_CHAT
 from Music.MusicUtilities.tgcallsrun import ASS_ACC
