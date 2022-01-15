@@ -68,8 +68,8 @@ async def vplay(c: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP}"),
-                InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{CHANNEL}"),
+                InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{ALEXIA_SUPPORT}"),
+                InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATE_CHANNEL}"),
             ]
         ]
     )
