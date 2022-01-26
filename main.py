@@ -29,7 +29,7 @@ print(f"[INFO]: ASSISTANT STARTED AS {ASSNAME}!")
 async def load_start():
     restart_data = await clean_restart_stage()
     if restart_data:
-        print("[INFO]: SENDING RESTART STATUS TO ZAID SERVER")
+        print("[INFO]: SENDING RESTART STATUS TO ALEXIA SERVER")
         try:
             await app.edit_message_text(
                 restart_data["chat_id"],
