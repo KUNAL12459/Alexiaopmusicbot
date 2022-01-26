@@ -1,5 +1,6 @@
 {
     "name": "◆ ▬ ❴𝐀𝐥𝐞𝐱𝐢𝐚𝐨𝐩𝐦𝐮𝐬𝐢𝐜𝐛𝐨𝐭❵ ▬ ◆",
+    "logo": "https://telegra.ph/file/6e7b006b8097fa3447b9f.jpg",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Alexia", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
     "repository": "https://github.com/KUNAL12459/Alexiaopmusicbot",
@@ -20,7 +21,7 @@
             "value": ""
         },
         "LOG_GROUP_ID": {
-            "description": "Add @Zaid2_robot and type /id to get ur chat id",
+            "description": "Add @Aexia_robot and type /id to get ur chat id",
             "required": true,
             "value": "Fill There Ur Private/Channel Id Make sure start with -100"
         },
